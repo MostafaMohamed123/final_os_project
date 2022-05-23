@@ -1,0 +1,27 @@
+C:\Users\sh\source\repos\OS project2\OS project2\bin\Debug\netcoreapp3.1\OS project2.exe
+C:\Users\sh\source\repos\OS project2\OS project2\bin\Debug\netcoreapp3.1\OS project2.deps.json
+C:\Users\sh\source\repos\OS project2\OS project2\bin\Debug\netcoreapp3.1\OS project2.runtimeconfig.json
+C:\Users\sh\source\repos\OS project2\OS project2\bin\Debug\netcoreapp3.1\OS project2.runtimeconfig.dev.json
+C:\Users\sh\source\repos\OS project2\OS project2\bin\Debug\netcoreapp3.1\OS project2.dll
+C:\Users\sh\source\repos\OS project2\OS project2\bin\Debug\netcoreapp3.1\OS project2.pdb
+C:\Users\sh\source\repos\OS project2\OS project2\obj\Debug\netcoreapp3.1\OS project2.csprojAssemblyReference.cache
+C:\Users\sh\source\repos\OS project2\OS project2\obj\Debug\netcoreapp3.1\OS project2.AssemblyInfoInputs.cache
+C:\Users\sh\source\repos\OS project2\OS project2\obj\Debug\netcoreapp3.1\OS project2.AssemblyInfo.cs
+C:\Users\sh\source\repos\OS project2\OS project2\obj\Debug\netcoreapp3.1\OS project2.csproj.CoreCompileInputs.cache
+C:\Users\sh\source\repos\OS project2\OS project2\obj\Debug\netcoreapp3.1\OS project2.dll
+C:\Users\sh\source\repos\OS project2\OS project2\obj\Debug\netcoreapp3.1\OS project2.pdb
+C:\Users\sh\source\repos\OS project2\OS project2\obj\Debug\netcoreapp3.1\OS project2.genruntimeconfig.cache
+C:\Users\Microsoft\Desktop\final project\OS project2\OS project2\bin\Debug\netcoreapp3.1\OS project2.exe
+C:\Users\Microsoft\Desktop\final project\OS project2\OS project2\bin\Debug\netcoreapp3.1\OS project2.deps.json
+C:\Users\Microsoft\Desktop\final project\OS project2\OS project2\bin\Debug\netcoreapp3.1\OS project2.runtimeconfig.json
+C:\Users\Microsoft\Desktop\final project\OS project2\OS project2\bin\Debug\netcoreapp3.1\OS project2.runtimeconfig.dev.json
+C:\Users\Microsoft\Desktop\final project\OS project2\OS project2\bin\Debug\netcoreapp3.1\OS project2.dll
+C:\Users\Microsoft\Desktop\final project\OS project2\OS project2\bin\Debug\netcoreapp3.1\OS project2.pdb
+C:\Users\Microsoft\Desktop\final project\OS project2\OS project2\obj\Debug\netcoreapp3.1\OS project2.csproj.AssemblyReference.cache
+C:\Users\Microsoft\Desktop\final project\OS project2\OS project2\obj\Debug\netcoreapp3.1\OS project2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Microsoft\Desktop\final project\OS project2\OS project2\obj\Debug\netcoreapp3.1\OS project2.AssemblyInfoInputs.cache
+C:\Users\Microsoft\Desktop\final project\OS project2\OS project2\obj\Debug\netcoreapp3.1\OS project2.AssemblyInfo.cs
+C:\Users\Microsoft\Desktop\final project\OS project2\OS project2\obj\Debug\netcoreapp3.1\OS project2.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\Desktop\final project\OS project2\OS project2\obj\Debug\netcoreapp3.1\OS project2.dll
+C:\Users\Microsoft\Desktop\final project\OS project2\OS project2\obj\Debug\netcoreapp3.1\OS project2.pdb
+C:\Users\Microsoft\Desktop\final project\OS project2\OS project2\obj\Debug\netcoreapp3.1\OS project2.genruntimeconfig.cache
